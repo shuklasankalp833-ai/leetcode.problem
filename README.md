@@ -40,4 +40,28 @@
 |  |
 | ------- |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/shuklasankalp833-ai/leetcode.problem/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+## Math
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/shuklasankalp833-ai/leetcode.problem/tree/master/0292-nim-game) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/shuklasankalp833-ai/leetcode.problem/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/shuklasankalp833-ai/leetcode.problem/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/shuklasankalp833-ai/leetcode.problem/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/shuklasankalp833-ai/leetcode.problem/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/shuklasankalp833-ai/leetcode.problem/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
