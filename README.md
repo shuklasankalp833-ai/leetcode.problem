@@ -12,6 +12,7 @@
 | ------- |
 | [0242-valid-anagram](https://github.com/shuklasankalp833-ai/leetcode.problem/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/shuklasankalp833-ai/leetcode.problem/tree/master/0389-find-the-difference) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/shuklasankalp833-ai/leetcode.problem/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/shuklasankalp833-ai/leetcode.problem/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/shuklasankalp833-ai/leetcode.problem/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Sorting
@@ -64,4 +65,8 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/shuklasankalp833-ai/leetcode.problem/tree/master/0292-nim-game) |
+## Sliding Window
+|  |
+| ------- |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/shuklasankalp833-ai/leetcode.problem/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 <!---LeetCode Topics End-->
