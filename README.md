@@ -45,6 +45,7 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/shuklasankalp833-ai/leetcode.problem/tree/master/0292-nim-game) |
+| [0492-construct-the-rectangle](https://github.com/shuklasankalp833-ai/leetcode.problem/tree/master/0492-construct-the-rectangle) |
 ## Brainteaser
 |  |
 | ------- |
