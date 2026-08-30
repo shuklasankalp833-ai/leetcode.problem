@@ -28,6 +28,7 @@
 ## Greedy
 |  |
 | ------- |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/shuklasankalp833-ai/leetcode.problem/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/shuklasankalp833-ai/leetcode.problem/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Counting
 |  |
@@ -74,6 +75,7 @@
 ## Array
 |  |
 | ------- |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/shuklasankalp833-ai/leetcode.problem/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/shuklasankalp833-ai/leetcode.problem/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Union-Find
 |  |
