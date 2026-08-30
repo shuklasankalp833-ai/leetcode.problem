@@ -12,6 +12,7 @@
 | ------- |
 | [0242-valid-anagram](https://github.com/shuklasankalp833-ai/leetcode.problem/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/shuklasankalp833-ai/leetcode.problem/tree/master/0389-find-the-difference) |
+| [0796-rotate-string](https://github.com/shuklasankalp833-ai/leetcode.problem/tree/master/0796-rotate-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/shuklasankalp833-ai/leetcode.problem/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/shuklasankalp833-ai/leetcode.problem/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/shuklasankalp833-ai/leetcode.problem/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -81,4 +82,8 @@
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/shuklasankalp833-ai/leetcode.problem/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/shuklasankalp833-ai/leetcode.problem/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
