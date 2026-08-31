@@ -86,4 +86,8 @@
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/shuklasankalp833-ai/leetcode.problem/tree/master/0796-rotate-string) |
+## Linked List
+|  |
+| ------- |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/shuklasankalp833-ai/leetcode.problem/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 <!---LeetCode Topics End-->
