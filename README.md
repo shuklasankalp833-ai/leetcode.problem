@@ -43,6 +43,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [1089-duplicate-zeros](https://github.com/shuklasankalp833-ai/leetcode.problem/tree/master/1089-duplicate-zeros) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/shuklasankalp833-ai/leetcode.problem/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Math
 |  |
@@ -77,6 +78,7 @@
 |  |
 | ------- |
 | [0485-max-consecutive-ones](https://github.com/shuklasankalp833-ai/leetcode.problem/tree/master/0485-max-consecutive-ones) |
+| [1089-duplicate-zeros](https://github.com/shuklasankalp833-ai/leetcode.problem/tree/master/1089-duplicate-zeros) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shuklasankalp833-ai/leetcode.problem/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/shuklasankalp833-ai/leetcode.problem/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Union-Find
