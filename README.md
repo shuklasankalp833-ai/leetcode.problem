@@ -13,6 +13,7 @@
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/shuklasankalp833-ai/leetcode.problem/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/shuklasankalp833-ai/leetcode.problem/tree/master/0389-find-the-difference) |
+| [0657-robot-return-to-origin](https://github.com/shuklasankalp833-ai/leetcode.problem/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0796-rotate-string](https://github.com/shuklasankalp833-ai/leetcode.problem/tree/master/0796-rotate-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/shuklasankalp833-ai/leetcode.problem/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/shuklasankalp833-ai/leetcode.problem/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -104,4 +105,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/shuklasankalp833-ai/leetcode.problem/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0657-robot-return-to-origin](https://github.com/shuklasankalp833-ai/leetcode.problem/tree/main/0657-robot-return-to-origin/) | Easy |
 <!---LeetCode Topics End-->
